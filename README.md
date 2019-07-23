@@ -7,3 +7,5 @@ The objectives of Lab 4 are to
 * Add edge triggered interrupts to signal semaphores
 * Signal semaphores from periodic interrupts
 * Run event tasks using the regular scheduler
+
+https://youtu.be/Ai0zZSJOOBo
